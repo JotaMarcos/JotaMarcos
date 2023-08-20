@@ -28,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaMarcos&theme=blue-green"/>
   <br /><br />
 </div>
-<p align='center'>
+<p>
   ![Snake animation](https://github.com/JotaMarcos/JotaMarcos/blob/output/github-contribution-grid-snake.svg)
 </p>
 
