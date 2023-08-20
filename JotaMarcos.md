@@ -26,7 +26,7 @@
   <a href="https://github.com/JotaMarcos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaMarcos&show_icons=true&theme=great-gatsby"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaMarcos&theme=blue-green"/>
-
+  <br />
   ![Snake animation](https://github.com/seu-usuário-aqui/JotaMarcos/blob/output/github-contribution-grid-snake.svg)
 </div>
 
