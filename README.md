@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jotamarcosduarte/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jotamarcos.github.io/masterbare/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="mailto:[PREENCHER-EMAIL]"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[PREENCHER-URL-LATTES]"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-005A9C?style=for-the-badge&logo=academia&logoColor=white"/></a>
+  <a href="mailto:profjotmarcosduarte@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/8690024517095741"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Curr%C3%ADculo_Lattes-005A9C?style=for-the-badge&logo=academia&logoColor=white"/></a>
 </p>
 
 ---
