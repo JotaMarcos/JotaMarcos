@@ -31,15 +31,11 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
 
 ---
 
-### 📊 Métricas Dinâmicas em Tempo Real
+### 📊 Métricas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JotaMarcos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaMarcos&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JotaMarcos&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JotaMarcos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JotaMarcos&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165"/>
 </p>
 
 ---
@@ -48,7 +44,7 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
 
 <table>
   <tr>
-    <td align="center" width="20%"><b>Core & Back-End</b></td>
+    <td align="center" width="22%"><b>Core & Back-End</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java_11%2F17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -59,7 +55,7 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Front-End & UI</b></td>
+    <td align="center" width="22%"><b>Front-End & UI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -68,7 +64,7 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Dados & Integração</b></td>
+    <td align="center" width="22%"><b>Dados & Integração</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -79,7 +75,7 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%"><b>Qualidade & DevOps</b></td>
+    <td align="center" width="22%"><b>Qualidade & DevOps</b></td>
     <td>
       <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square"/>
@@ -95,21 +91,59 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
 
 ### 🚀 Repositórios em Destaque
 
-<div align="center">
-  <a href="https://github.com/JotaMarcos/crud-livraria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JotaMarcos&repo=crud-livraria&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/JotaMarcos/bookstore-manager-masterbare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JotaMarcos&repo=bookstore-manager-masterbare&theme=tokyonight" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JotaMarcos/crud-livraria">
+        <b>📚 crud-livraria</b>
+      </a>
+      <br/>
+      <sub>Sistema CRUD para gestão de livraria desenvolvido com foco em boas práticas, persistência e camada de serviços.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JotaMarcos/bookstore-manager-masterbare">
+        <b>📖 bookstore-manager-masterbare</b>
+      </a>
+      <br/>
+      <sub>Gerenciador de catálogo e fluxo comercial de livros com arquitetura modular e documentação REST.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JotaMarcos/masterbare">
+        <b>🌐 masterbare</b>
+      </a>
+      <br/>
+      <sub>Plataforma web de apresentação e portfólio de projetos técnicos e de extensão acadêmica.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JotaMarcos/DevLockTechContatos">
+        <b>📇 DevLockTechContatos</b>
+      </a>
+      <br/>
+      <sub>Módulo corporativo para persistência de contatos e controle estruturado de informações.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Full_Stack-455A64?style=flat-square" />
+      <img src="https://img.shields.io/badge/Database-4169E1?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🔄 Atividade Recente (Atualizada Automaticamente)
 
 <!-- START_SECTION:activity -->
-<!-- Aqui entram as automações via GitHub Actions -->
+<!-- Atualizado diariamente via GitHub Action -->
 <!-- END_SECTION:activity -->
 
 ---
@@ -118,21 +152,21 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
 <summary><b>🎓 Formação Acadêmica & Trajetória Docente</b> (Clique para expandir)</summary>
 <br/>
 
-- **Pós-Graduação:** Especialização em Redes e Segurança de SI (Faculdade Porto Velho)
-- **Pós-Graduação:** Especialização em Metodologia do Ensino Superior (Faculdade Porto Velho)
-- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas (Universidade do Estado do Amazonas - UEA)
-- **Instituições lecionadas:** Faculdade Senac AM, UNIESBAM, ESBAM, UNINORTE, SENAI RO, CETAM.
+* **Pós-Graduação:** Especialização em Redes e Segurança de SI (Faculdade Porto Velho)
+* **Pós-Graduação:** Especialização em Metodologia do Ensino Superior (Faculdade Porto Velho)
+* **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas (Universidade do Estado do Amazonas - UEA)
+* **Instituições com docência:** Faculdade Senac AM, UNIESBAM, ESBAM, UNINORTE, SENAI RO, CETAM.
 </details>
 
 <details>
 <summary><b>📜 Certificações Internacionais</b></summary>
 <br/>
 
-- **ITIL® 4 Foundation** (Gerenciamento de Serviços de TI)
-- **Scrum Foundation Professional Certificate**
-- **Kanban Foundation Certificate**
-- **DevOps Essentials**
-- **EXIN BCS Business Analysis Overview**
+* **ITIL® 4 Foundation** (Gerenciamento de Serviços de TI)
+* **Scrum Foundation Professional Certificate**
+* **Kanban Foundation Certificate**
+* **DevOps Essentials**
+* **EXIN BCS Business Analysis Overview**
 </details>
 
 ---
