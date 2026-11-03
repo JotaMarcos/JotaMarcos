@@ -7,7 +7,6 @@
   <a href="http://lattes.cnpq.br/8690024517095741"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Currículo_Lattes-005A9C?style=for-the-badge&logo=academia&logoColor=white"/></a>
   <a href="https://jotamarcos.github.io/masterbare/"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="mailto:profjotamarcosduarte@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img alt="Visitas ao Perfil" src="https://komarev.com/ghpvc/?username=JotaMarcos&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
