@@ -15,9 +15,9 @@
 ### 📌 Visão Executiva
 
 Analista de Sistemas Sênior e Docente Especialista com sólida vivência na intersecção entre **mercado enterprise, governança pública e ambiente acadêmico (PDI)**:
-* **Setor Público:** Sustentação e modernização de arquitetura crítica no **Projeto Novo TJAM** (sistemas Projudi, PJeCor, custas e integrações via MNI/SOAP com Ministérios Públicos e Correios).
-* **Pesquisa & Inovação:** Pesquisador no **ICT e CRIT Senac AM**, focando em arquitetura distribuída, qualidade de software e capacitação tecnológica do técnico à graduação.
-* **Stack Principal:** Java (11/17/21), Spring Boot, Angular, Node.js, SQL Server, PostgreSQL, mensageria e infraestrutura Linux.
+- **Setor Público:** Sustentação e modernização de arquitetura crítica no **Projeto Novo TJAM** (sistemas Projudi, PJeCor, custas e integrações via MNI/SOAP com Ministérios Públicos e Correios).
+- **Pesquisa & Inovação:** Pesquisador no **ICT e CRIT Senac AM**, focando em arquitetura distribuída, qualidade de software e capacitação tecnológica do técnico à graduação.
+- **Stack Principal:** Java (11/17/21), Spring Boot, Angular, Node.js, SQL Server, PostgreSQL, mensageria e infraestrutura Linux.
 
 ---
 
@@ -28,15 +28,6 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
 | **Poder Judiciário (AADESAM / TJAM)** | Analista de TI Sênior | Interoperabilidade MNI/SOAP, banco de dados crítico PostgreSQL, gestão via Jira. |
 | **Faculdade Senac AM** | Docente Especialista | Formação sênior em ADS, Qualidade/Testes de Software e Arquitetura Web. |
 | **ICT / CRIT Senac AM** | Professor Pesquisador | Projetos de PDI aplicados à inovação e desenvolvimento de ecossistemas regionais. |
-
----
-
-### 📊 Métricas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JotaMarcos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JotaMarcos&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165"/>
-</p>
 
 ---
 
@@ -152,21 +143,21 @@ Analista de Sistemas Sênior e Docente Especialista com sólida vivência na int
 <summary><b>🎓 Formação Acadêmica & Trajetória Docente</b> (Clique para expandir)</summary>
 <br/>
 
-* **Pós-Graduação:** Especialização em Redes e Segurança de SI (Faculdade Porto Velho)
-* **Pós-Graduação:** Especialização em Metodologia do Ensino Superior (Faculdade Porto Velho)
-* **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas (Universidade do Estado do Amazonas - UEA)
-* **Instituições com docência:** Faculdade Senac AM, UNIESBAM, ESBAM, UNINORTE, SENAI RO, CETAM.
+- **Pós-Graduação:** Especialização em Redes e Segurança de SI (Faculdade Porto Velho)
+- **Pós-Graduação:** Especialização em Metodologia do Ensino Superior (Faculdade Porto Velho)
+- **Graduação:** Tecnologia em Análise e Desenvolvimento de Sistemas (Universidade do Estado do Amazonas - UEA)
+- **Instituições com docência:** Faculdade Senac AM, UNIESBAM, ESBAM, UNINORTE, SENAI RO, CETAM.
 </details>
 
 <details>
 <summary><b>📜 Certificações Internacionais</b></summary>
 <br/>
 
-* **ITIL® 4 Foundation** (Gerenciamento de Serviços de TI)
-* **Scrum Foundation Professional Certificate**
-* **Kanban Foundation Certificate**
-* **DevOps Essentials**
-* **EXIN BCS Business Analysis Overview**
+- **ITIL® 4 Foundation** (Gerenciamento de Serviços de TI)
+- **Scrum Foundation Professional Certificate**
+- **Kanban Foundation Certificate**
+- **DevOps Essentials**
+- **EXIN BCS Business Analysis Overview**
 </details>
 
 ---
